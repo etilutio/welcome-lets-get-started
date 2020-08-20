@@ -12,8 +12,8 @@ Flatiron School and a few thoughts about how to make the best use of your course
 resources.
 
 For specific policy details, students should refer to the Learn.co Terms of
-Service and [Student Catalog][] (Links to an external site.), which supersedes
-all policy statements herein. The guidelines in this document are subject to
-modification, amendment or revocation by at any time, without advance notice.
+Service and [Student Catalog][], which supersedes all policy statements herein. 
+The guidelines in this document are subject to modification, amendment or 
+revocation at any time, without advance notice.
 
 [Student Catalog]: https://flatironschool.com/north-america-regulatory-information/
